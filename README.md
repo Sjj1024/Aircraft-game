@@ -12,9 +12,12 @@
 ![](https://raw.githubusercontent.com/Sjj1024/image-all/master/feiji1.png)  
 
 
+
 2. 游戏开始后，可以发射子弹等操作  
+
 ![](https://raw.githubusercontent.com/Sjj1024/image-all/master/feiji2.png)
   
+
 
 3. 玩家飞机与敌军飞机碰撞后，死亡  
 ![](https://raw.githubusercontent.com/Sjj1024/image-all/master/feiji3.png)
