@@ -8,6 +8,7 @@
 # 效果展示
 
 1. 运行游戏后，会有选项
+
 ![](https://raw.githubusercontent.com/Sjj1024/image-all/master/feiji1.png)  
 
 
